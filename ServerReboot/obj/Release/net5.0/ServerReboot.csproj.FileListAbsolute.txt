@@ -1,0 +1,16 @@
+C:\Users\garrett\source\repos\ServerReboot\ServerReboot\bin\Release\net5.0\ServerReboot.exe
+C:\Users\garrett\source\repos\ServerReboot\ServerReboot\bin\Release\net5.0\ServerReboot.deps.json
+C:\Users\garrett\source\repos\ServerReboot\ServerReboot\bin\Release\net5.0\ServerReboot.runtimeconfig.json
+C:\Users\garrett\source\repos\ServerReboot\ServerReboot\bin\Release\net5.0\ServerReboot.runtimeconfig.dev.json
+C:\Users\garrett\source\repos\ServerReboot\ServerReboot\bin\Release\net5.0\ServerReboot.dll
+C:\Users\garrett\source\repos\ServerReboot\ServerReboot\bin\Release\net5.0\ref\ServerReboot.dll
+C:\Users\garrett\source\repos\ServerReboot\ServerReboot\bin\Release\net5.0\ServerReboot.pdb
+C:\Users\garrett\source\repos\ServerReboot\ServerReboot\obj\Release\net5.0\ServerReboot.csprojAssemblyReference.cache
+C:\Users\garrett\source\repos\ServerReboot\ServerReboot\obj\Release\net5.0\ServerReboot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garrett\source\repos\ServerReboot\ServerReboot\obj\Release\net5.0\ServerReboot.AssemblyInfoInputs.cache
+C:\Users\garrett\source\repos\ServerReboot\ServerReboot\obj\Release\net5.0\ServerReboot.AssemblyInfo.cs
+C:\Users\garrett\source\repos\ServerReboot\ServerReboot\obj\Release\net5.0\ServerReboot.csproj.CoreCompileInputs.cache
+C:\Users\garrett\source\repos\ServerReboot\ServerReboot\obj\Release\net5.0\ServerReboot.dll
+C:\Users\garrett\source\repos\ServerReboot\ServerReboot\obj\Release\net5.0\ref\ServerReboot.dll
+C:\Users\garrett\source\repos\ServerReboot\ServerReboot\obj\Release\net5.0\ServerReboot.pdb
+C:\Users\garrett\source\repos\ServerReboot\ServerReboot\obj\Release\net5.0\ServerReboot.genruntimeconfig.cache
